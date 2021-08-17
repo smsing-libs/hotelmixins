@@ -1,0 +1,26 @@
+{
+  "name": "smsing_hotelmixinslib",
+  "version": "1.0.0",
+  "description": "AllexJS mixin lib that enables an allex_hotelservice to handle SMS messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smsing-libs/hotelmixins.git"
+  },
+  "keywords": [
+    "ecosystem:AlleJS",
+    "smsing",
+    "hotel",
+    "mixin",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smsing-libs/hotelmixins/issues"
+  },
+  "homepage": "https://github.com/smsing-libs/hotelmixins#readme"
+}
